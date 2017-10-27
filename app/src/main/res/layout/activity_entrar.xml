@@ -44,6 +44,7 @@
         android:inputType="textPassword" />
 
     <Button
+        android:onClick="onClick"
         android:id="@+id/entrarEntrar"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"

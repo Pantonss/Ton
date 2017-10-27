@@ -12,6 +12,10 @@
         "source": "C:\\Users\\RB-LAB105-04\\.android\\build-cache\\a244866fd092df9f54d31744ab18d193eb1269d2\\output\\res\\color-v23\\abc_tint_default.xml"
     },
     {
+        "merged": "C:\\Users\\RB-LAB105-04\\Desktop\\Ton\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_edittext.xml",
+        "source": "C:\\Users\\RB-LAB105-04\\.android\\build-cache\\75af87ab78e923536cad26e33ea07c7578d61906\\output\\res\\color-v23\\abc_tint_edittext.xml"
+    },
+    {
         "merged": "C:\\Users\\RB-LAB105-04\\Downloads\\Ton\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_switch_thumb.xml",
         "source": "C:\\Users\\RB-LAB105-04\\.android\\build-cache\\a244866fd092df9f54d31744ab18d193eb1269d2\\output\\res\\color-v23\\abc_tint_switch_thumb.xml"
     },
@@ -36,7 +40,43 @@
         "source": "C:\\Users\\RB-LAB105-04\\.android\\build-cache\\a244866fd092df9f54d31744ab18d193eb1269d2\\output\\res\\color-v23\\abc_tint_switch_track.xml"
     },
     {
+        "merged": "C:\\Users\\RB-LAB105-04\\Desktop\\Ton\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_spinner.xml",
+        "source": "C:\\Users\\RB-LAB105-04\\.android\\build-cache\\75af87ab78e923536cad26e33ea07c7578d61906\\output\\res\\color-v23\\abc_tint_spinner.xml"
+    },
+    {
+        "merged": "C:\\Users\\RB-LAB105-04\\Desktop\\Ton\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_switch_track.xml",
+        "source": "C:\\Users\\RB-LAB105-04\\.android\\build-cache\\75af87ab78e923536cad26e33ea07c7578d61906\\output\\res\\color-v23\\abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "C:\\Users\\RB-LAB105-04\\Desktop\\Ton\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_switch_thumb.xml",
+        "source": "C:\\Users\\RB-LAB105-04\\.android\\build-cache\\75af87ab78e923536cad26e33ea07c7578d61906\\output\\res\\color-v23\\abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "C:\\Users\\RB-LAB105-04\\Desktop\\Ton\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_btn_colored_text_material.xml",
+        "source": "C:\\Users\\RB-LAB105-04\\.android\\build-cache\\75af87ab78e923536cad26e33ea07c7578d61906\\output\\res\\color-v23\\abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\RB-LAB105-04\\Desktop\\Ton\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_color_highlight_material.xml",
+        "source": "C:\\Users\\RB-LAB105-04\\.android\\build-cache\\75af87ab78e923536cad26e33ea07c7578d61906\\output\\res\\color-v23\\abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\RB-LAB105-04\\Desktop\\Ton\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_seek_thumb.xml",
+        "source": "C:\\Users\\RB-LAB105-04\\.android\\build-cache\\75af87ab78e923536cad26e33ea07c7578d61906\\output\\res\\color-v23\\abc_tint_seek_thumb.xml"
+    },
+    {
         "merged": "C:\\Users\\RB-LAB105-04\\Downloads\\Ton\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_color_highlight_material.xml",
         "source": "C:\\Users\\RB-LAB105-04\\.android\\build-cache\\a244866fd092df9f54d31744ab18d193eb1269d2\\output\\res\\color-v23\\abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\RB-LAB105-04\\Desktop\\Ton\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_btn_checkable.xml",
+        "source": "C:\\Users\\RB-LAB105-04\\.android\\build-cache\\75af87ab78e923536cad26e33ea07c7578d61906\\output\\res\\color-v23\\abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "C:\\Users\\RB-LAB105-04\\Desktop\\Ton\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_btn_colored_borderless_text_material.xml",
+        "source": "C:\\Users\\RB-LAB105-04\\.android\\build-cache\\75af87ab78e923536cad26e33ea07c7578d61906\\output\\res\\color-v23\\abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\RB-LAB105-04\\Desktop\\Ton\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_default.xml",
+        "source": "C:\\Users\\RB-LAB105-04\\.android\\build-cache\\75af87ab78e923536cad26e33ea07c7578d61906\\output\\res\\color-v23\\abc_tint_default.xml"
     }
 ]

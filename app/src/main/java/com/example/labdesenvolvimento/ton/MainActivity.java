@@ -34,7 +34,6 @@ public class MainActivity extends Activity implements View.OnClickListener {
         userEmail = (EditText) findViewById(R.id.entrarEmail);
         userSenha  = (EditText) findViewById(R.id.entrarSenha);
         logar = (Button) findViewById(R.id.entrarEntrar);
-
         firebaseAuth = FirebaseAuth.getInstance();
         progressDialog = new ProgressDialog(this);
 
