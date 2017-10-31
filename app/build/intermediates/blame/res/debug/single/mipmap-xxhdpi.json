@@ -1,10 +1,6 @@
 [
     {
-        "merged": "C:\\Users\\RB-LAB105-04\\Desktop\\Ton\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher.png",
-        "source": "C:\\Users\\RB-LAB105-04\\Desktop\\Ton\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
-    },
-    {
-        "merged": "C:\\Users\\RB-LAB105-04\\Downloads\\Ton\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher.png",
-        "source": "C:\\Users\\RB-LAB105-04\\Downloads\\Ton\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+        "merged": "C:\\Users\\RB-LAB105-04\\AndroidStudioProjects\\Ton\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher.png",
+        "source": "C:\\Users\\RB-LAB105-04\\AndroidStudioProjects\\Ton\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
     }
 ]

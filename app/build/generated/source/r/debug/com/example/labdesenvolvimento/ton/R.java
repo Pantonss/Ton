@@ -1965,7 +1965,6 @@ containing a value of this type.
         public static final int auto=0x7f0b0027;
         public static final int beginning=0x7f0b001a;
         public static final int bottom=0x7f0b002a;
-        public static final int button6=0x7f0b0076;
         public static final int buttonPanel=0x7f0b0036;
         public static final int cadastorCadastro=0x7f0b006b;
         public static final int cancel_action=0x7f0b007b;
@@ -2014,7 +2013,8 @@ containing a value of this type.
         public static final int listMode=0x7f0b0009;
         public static final int list_item=0x7f0b0033;
         public static final int media_actions=0x7f0b007d;
-        public static final int menuEntrar =0x7f0b0075;
+        public static final int menuCadastrar=0x7f0b0076;
+        public static final int menuEntrar=0x7f0b0075;
         public static final int middle=0x7f0b001c;
         public static final int multiply=0x7f0b0014;
         public static final int never=0x7f0b0022;

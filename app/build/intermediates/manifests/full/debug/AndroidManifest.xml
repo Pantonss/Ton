@@ -32,6 +32,8 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name="com.example.labdesenvolvimento.ton.controle.Entrar" />
+        <activity android:name="com.example.labdesenvolvimento.ton.controle.Cadastro" />
         <activity
             android:name="com.google.android.gms.common.api.GoogleApiActivity"
             android:exported="false"

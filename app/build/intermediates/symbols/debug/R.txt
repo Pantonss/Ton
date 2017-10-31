@@ -592,7 +592,6 @@ int id always 0x7f0b001f
 int id auto 0x7f0b0027
 int id beginning 0x7f0b001a
 int id bottom 0x7f0b002a
-int id button6 0x7f0b0076
 int id buttonPanel 0x7f0b0036
 int id cadastorCadastro 0x7f0b006b
 int id cancel_action 0x7f0b007b
@@ -641,7 +640,8 @@ int id line3 0x7f0b008b
 int id listMode 0x7f0b0009
 int id list_item 0x7f0b0033
 int id media_actions 0x7f0b007d
-int id menu_entrar 0x7f0b0075
+int id menuCadastrar 0x7f0b0076
+int id menuEntrar 0x7f0b0075
 int id middle 0x7f0b001c
 int id multiply 0x7f0b0014
 int id never 0x7f0b0022

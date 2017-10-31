@@ -1,34 +1,18 @@
 [
     {
-        "merged": "C:\\Users\\RB-LAB105-04\\Downloads\\Ton\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
-        "source": "C:\\Users\\RB-LAB105-04\\.android\\build-cache\\a244866fd092df9f54d31744ab18d193eb1269d2\\output\\res\\layout-v21\\notification_action_tombstone.xml"
-    },
-    {
-        "merged": "C:\\Users\\RB-LAB105-04\\Desktop\\Ton\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
-        "source": "C:\\Users\\RB-LAB105-04\\.android\\build-cache\\75af87ab78e923536cad26e33ea07c7578d61906\\output\\res\\layout-v21\\notification_template_icon_group.xml"
-    },
-    {
-        "merged": "C:\\Users\\RB-LAB105-04\\Desktop\\Ton\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
-        "source": "C:\\Users\\RB-LAB105-04\\.android\\build-cache\\75af87ab78e923536cad26e33ea07c7578d61906\\output\\res\\layout-v21\\notification_action.xml"
-    },
-    {
-        "merged": "C:\\Users\\RB-LAB105-04\\Desktop\\Ton\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "merged": "C:\\Users\\RB-LAB105-04\\AndroidStudioProjects\\Ton\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
         "source": "C:\\Users\\RB-LAB105-04\\.android\\build-cache\\75af87ab78e923536cad26e33ea07c7578d61906\\output\\res\\layout-v21\\notification_template_custom_big.xml"
     },
     {
-        "merged": "C:\\Users\\RB-LAB105-04\\Downloads\\Ton\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
-        "source": "C:\\Users\\RB-LAB105-04\\.android\\build-cache\\a244866fd092df9f54d31744ab18d193eb1269d2\\output\\res\\layout-v21\\notification_action.xml"
+        "merged": "C:\\Users\\RB-LAB105-04\\AndroidStudioProjects\\Ton\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\RB-LAB105-04\\.android\\build-cache\\75af87ab78e923536cad26e33ea07c7578d61906\\output\\res\\layout-v21\\notification_template_icon_group.xml"
     },
     {
-        "merged": "C:\\Users\\RB-LAB105-04\\Downloads\\Ton\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
-        "source": "C:\\Users\\RB-LAB105-04\\.android\\build-cache\\a244866fd092df9f54d31744ab18d193eb1269d2\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+        "merged": "C:\\Users\\RB-LAB105-04\\AndroidStudioProjects\\Ton\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\RB-LAB105-04\\.android\\build-cache\\75af87ab78e923536cad26e33ea07c7578d61906\\output\\res\\layout-v21\\notification_action.xml"
     },
     {
-        "merged": "C:\\Users\\RB-LAB105-04\\Downloads\\Ton\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
-        "source": "C:\\Users\\RB-LAB105-04\\.android\\build-cache\\a244866fd092df9f54d31744ab18d193eb1269d2\\output\\res\\layout-v21\\notification_template_custom_big.xml"
-    },
-    {
-        "merged": "C:\\Users\\RB-LAB105-04\\Desktop\\Ton\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "merged": "C:\\Users\\RB-LAB105-04\\AndroidStudioProjects\\Ton\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
         "source": "C:\\Users\\RB-LAB105-04\\.android\\build-cache\\75af87ab78e923536cad26e33ea07c7578d61906\\output\\res\\layout-v21\\notification_action_tombstone.xml"
     }
 ]
