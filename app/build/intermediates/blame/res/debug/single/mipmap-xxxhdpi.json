@@ -1,5 +1,9 @@
 [
     {
+        "merged": "C:\\Users\\may_s\\StudioProjects\\Ton\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_launcher.png",
+        "source": "C:\\Users\\may_s\\StudioProjects\\Ton\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
         "merged": "C:\\Users\\RB-LAB105-04\\AndroidStudioProjects\\Ton\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_launcher.png",
         "source": "C:\\Users\\RB-LAB105-04\\AndroidStudioProjects\\Ton\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
     }
