@@ -1,12 +1,13 @@
 package com.example.labdesenvolvimento.ton.modelo;
 
+import java.io.Serializable;
 import java.util.Date;
 
 /**
  * Created by Lab. Desenvolvimento on 26/10/2017.
  */
 
-public class User {
+public class User implements Serializable{
     public int idUser, providerIdProvider;
     public String FirstName, LastName, Email, Rg, Cpf, Phone, CellPhone, Adress, Cep, Password;
     public Date data;

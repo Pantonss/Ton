@@ -52,6 +52,14 @@
         "source": "C:\\Users\\RB-LAB105-04\\AndroidStudioProjects\\Ton\\app\\src\\main\\res\\layout\\activity_entrar.xml"
     },
     {
+        "merged": "C:\\Users\\may_s\\StudioProjects\\Ton\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_inicial.xml",
+        "source": "C:\\Users\\may_s\\StudioProjects\\Ton\\app\\src\\main\\res\\layout\\activity_inicial.xml"
+    },
+    {
+        "merged": "C:\\Users\\may_s\\StudioProjects\\Ton\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_escolha.xml",
+        "source": "C:\\Users\\may_s\\StudioProjects\\Ton\\app\\src\\main\\res\\layout\\activity_escolha.xml"
+    },
+    {
         "merged": "C:\\Users\\may_s\\StudioProjects\\Ton\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
         "source": "C:\\Users\\may_s\\.android\\build-cache\\9de9b3fb9bfef9a0f719d3946d699ca82eb6b9e2\\output\\res\\layout\\abc_screen_toolbar.xml"
     },
@@ -62,6 +70,10 @@
     {
         "merged": "C:\\Users\\may_s\\StudioProjects\\Ton\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
         "source": "C:\\Users\\may_s\\.android\\build-cache\\9de9b3fb9bfef9a0f719d3946d699ca82eb6b9e2\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\may_s\\StudioProjects\\Ton\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_encontrar.xml",
+        "source": "C:\\Users\\may_s\\StudioProjects\\Ton\\app\\src\\main\\res\\layout\\activity_encontrar.xml"
     },
     {
         "merged": "C:\\Users\\RB-LAB105-04\\AndroidStudioProjects\\Ton\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
