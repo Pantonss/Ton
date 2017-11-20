@@ -43,7 +43,6 @@ public class Util {
             mainObj = new JSONObject(jsonFile);
 
             usuario = new User();
-            usuario.setIdUser(mainObj.getInt("idUser"));
             usuario.setProviderIdProvider(mainObj.getInt("providerIdProvider"));
             usuario.setFirstName(mainObj.getString("FirstName"));
             usuario.setLastName(mainObj.getString("LastName"));

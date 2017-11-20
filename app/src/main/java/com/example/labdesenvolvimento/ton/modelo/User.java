@@ -8,7 +8,7 @@ import java.util.Date;
  */
 
 public class User implements Serializable{
-    public int idUser, providerIdProvider;
+    public int  providerIdProvider;
     public String FirstName, LastName, Email, Rg, Cpf, Phone, CellPhone, Adress, Cep, Password;
     public Date data;
     public String provider;
@@ -23,14 +23,6 @@ public class User implements Serializable{
 
     public void setProvider(String provider) {
         this.provider = provider;
-    }
-
-    public int getIdUser() {
-        return idUser;
-    }
-
-    public void setIdUser(int idUser) {
-        this.idUser = idUser;
     }
 
     public int getProviderIdProvider() {
@@ -129,8 +121,8 @@ public class User implements Serializable{
         this.data = data;
     }
 
-    public User(int idUser, int providerIdProvider, String FirstName, String LastName, String Email, String Rg, String Cpf, String Phone, String CellPhone, String Adress, String Cep, String Password, Date data, String provider) {
-        this.idUser = idUser;
+    public User( int providerIdProvider, String FirstName, String LastName, String Email, String Rg, String Cpf, String Phone, String CellPhone, String Adress, String Cep, String Password, Date data, String provider) {
+
         this.providerIdProvider = providerIdProvider;
         this.FirstName = FirstName;
         this.LastName = LastName;

@@ -40,7 +40,7 @@ public class Encontrar extends Activity{
         public User doInBackground(Void... params) {
             HttpURLConnection con = null;
             try {
-                URL url = new URL("http://api.openweathermap.org/data/2.5/forecast/daily?q=Curitiba&mode=json&units=metric&cnt=1&appid=440b84a8027be4fcf90f9b83e4b45aa9");
+                URL url = new URL("http://localhost:8180/TON-WS/WS/ListarSubcategoria");
                 con = (HttpURLConnection) url.openConnection();
                 con.setRequestMethod("GET");
                 con.setDoInput(true);
@@ -58,9 +58,14 @@ public class Encontrar extends Activity{
         }
         @Override
         public void onPostExecute(User user){
-            String info = "Cidade: " + user.getCidade();
-            info += "\nTemperatura: " + user.getTemperatura();
-            textInfo.setText(info);
+            String info = "Trabalha : " + user.getSubcategoria();
+            String info = "Nome : " + user.getFirstName();
+            String info = "Sobre Nome : " + user.getLastName();
+            String info = "Celular : " + user.getCellPhone();
+            String info = "Telefone :" + user.getPhone();
+            String info = "Endereço :" + user.getCep();
+
+            pesquisar.setText(info);
         }
 
     }

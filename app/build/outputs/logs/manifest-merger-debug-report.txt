@@ -25,8 +25,10 @@ ADDED from C:\Users\may_s\StudioProjects\Ton\app\src\main\AndroidManifest.xml:5:
 MERGED from [com.android.support:appcompat-v7:25.1.1] C:\Users\may_s\.android\build-cache\9de9b3fb9bfef9a0f719d3946d699ca82eb6b9e2\output\AndroidManifest.xml:25:5-20
 MERGED from [com.android.support:animated-vector-drawable:25.1.1] C:\Users\may_s\.android\build-cache\b89525596b7c314139ee7b9269007fdfd136eefb\output\AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:support-vector-drawable:25.1.1] C:\Users\may_s\.android\build-cache\406318f2f191b1f2b643cba138a8542d1834e110\output\AndroidManifest.xml:23:5-20
+MERGED from [com.android.volley:volley:1.0.0] C:\Users\may_s\.android\build-cache\81d55b09753f4d2bc544a98c2fa00bde98cee734\output\AndroidManifest.xml:9:5-20
 MERGED from [com.google.firebase:firebase-auth:10.0.1] C:\Users\may_s\.android\build-cache\79bd8cc50cf43c0226ac5cb079184a784af1edb3\output\AndroidManifest.xml:19:5-20:19
 MERGED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\may_s\.android\build-cache\87b43bfb4a2bb04f041e1d64ddf05eb9d97d44b2\output\AndroidManifest.xml:18:5-20:19
+MERGED from [Ton:volley-master:unspecified] C:\Users\may_s\StudioProjects\Ton\volley-master\build\intermediates\bundles\default\AndroidManifest.xml:9:5-20
 MERGED from [com.google.firebase:firebase-core:10.0.1] C:\Users\may_s\.android\build-cache\37004cc61709ba08872237dd098916004a5d80ac\output\AndroidManifest.xml:5:5-20
 MERGED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\may_s\.android\build-cache\28ed1bda1babaec8086b47ccaf5f8fe3e155d1a0\output\AndroidManifest.xml:24:5-33:19
 MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\may_s\.android\build-cache\fd1846755b88121e183e8eab1f28e22d04b2b8c7\output\AndroidManifest.xml:24:5-28:19
@@ -77,8 +79,10 @@ INJECTED from C:\Users\may_s\StudioProjects\Ton\app\src\main\AndroidManifest.xml
 MERGED from [com.android.support:appcompat-v7:25.1.1] C:\Users\may_s\.android\build-cache\9de9b3fb9bfef9a0f719d3946d699ca82eb6b9e2\output\AndroidManifest.xml:21:5-23:78
 MERGED from [com.android.support:animated-vector-drawable:25.1.1] C:\Users\may_s\.android\build-cache\b89525596b7c314139ee7b9269007fdfd136eefb\output\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-vector-drawable:25.1.1] C:\Users\may_s\.android\build-cache\406318f2f191b1f2b643cba138a8542d1834e110\output\AndroidManifest.xml:21:5-43
+MERGED from [com.android.volley:volley:1.0.0] C:\Users\may_s\.android\build-cache\81d55b09753f4d2bc544a98c2fa00bde98cee734\output\AndroidManifest.xml:7:5-43
 MERGED from [com.google.firebase:firebase-auth:10.0.1] C:\Users\may_s\.android\build-cache\79bd8cc50cf43c0226ac5cb079184a784af1edb3\output\AndroidManifest.xml:17:5-42
 MERGED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\may_s\.android\build-cache\87b43bfb4a2bb04f041e1d64ddf05eb9d97d44b2\output\AndroidManifest.xml:17:5-42
+MERGED from [Ton:volley-master:unspecified] C:\Users\may_s\StudioProjects\Ton\volley-master\build\intermediates\bundles\default\AndroidManifest.xml:7:5-43
 MERGED from [com.google.firebase:firebase-core:10.0.1] C:\Users\may_s\.android\build-cache\37004cc61709ba08872237dd098916004a5d80ac\output\AndroidManifest.xml:4:5-42
 MERGED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\may_s\.android\build-cache\28ed1bda1babaec8086b47ccaf5f8fe3e155d1a0\output\AndroidManifest.xml:17:5-42
 MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\may_s\.android\build-cache\fd1846755b88121e183e8eab1f28e22d04b2b8c7\output\AndroidManifest.xml:17:5-42

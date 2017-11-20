@@ -124,6 +124,14 @@
             android:textSize="20sp" />
 
 
+        <EditText
+            android:id="@+id/editProfi"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:hint="Diga Sua Profissão"
+            android:inputType="textPersonName" />
+
         <CheckBox
             android:text="Prestador"
             android:layout_width="match_parent"

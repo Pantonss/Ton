@@ -16,7 +16,14 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Encontrar"
-        android:layout_below="@+id/editEncontrar"
+        android:layout_alignParentBottom="true"
         android:layout_alignParentStart="true"
-        android:layout_marginTop="57dp" />
+        android:layout_marginBottom="39dp" />
+
+    <ListView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/editEncontrar"
+        android:layout_marginTop="15dp" />
 </RelativeLayout>
